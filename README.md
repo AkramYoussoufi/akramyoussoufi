@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akram Youssoufi</h1>
 <h3 align="center">I'am a FullStack Engineer</h3>
 
-- 🌱 I’m currently learning **DevOps**
-
 - 👨‍💻 Further insights into my background and work can be found in my portfolio [http://akramyoussoufi.uk.to/](http://akramyoussoufi.uk.to/)
 
-- ⚡ Fun fact [I find programming to be incredibly addictive](I find programming to be incredibly addictive)
+- ⚡ Fun fact I find programming to be incredibly addictive
 
-- 💬 Ask me about **Java, SpringBoot, Angular, React.**
+- 💬 Ask me about **Java, SpringBoot, Angular, and React.**
 
 - 📫 How to reach me **akram.lyoussoufi@gmail.com**
 
