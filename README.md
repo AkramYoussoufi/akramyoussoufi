@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akram Youssoufi</h1>
-<h3 align="center">I'am a DevOps & FullStack Engineer</h3>
+<h3 align="center">I'am a FullStack Engineer</h3>
 
 - 👨‍💻 Further insights into my background and work can be found in my portfolio [http://akramyoussoufi.site/](http://akramyoussoufi.site)
 
